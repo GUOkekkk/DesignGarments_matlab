@@ -1,1 +1,2 @@
 # DesignGarments_matlab
+In this project, a system consisting of three materials, a dummy and an air layer between them under high temperature conditions is constructed. The heat transfer differential equation for the heat transfer of each layer of the system is given based on heat transfer analysis and the initial edge value conditions. The problem is solved by Excel and Matlab(mainly). But the paper is in chinese version, if need more information feel free to contact me.
